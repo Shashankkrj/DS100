@@ -1,0 +1,4 @@
+DAY 1(INSTALLING THE TOOLS)-i)https://code.visualstudio.com/docs/python/data-science-tutorial
+                           ii)https://www.openml.org/d/40945
+DAY 2(PYTHON BASICS)-freecodecmp.org channel youtube
+DAY 3(
